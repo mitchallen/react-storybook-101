@@ -6,7 +6,6 @@
 # Assumes npm / npx installed
 sudo npm uninstall -g create-react-app
 npx clear-npx-cache
-npx create-react-app story-book-102
 cd ~/projects/javascript
 npx create-react-app react-storybook-101
 cd react-storybook-101
